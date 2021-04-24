@@ -1,0 +1,25 @@
+.about{
+    padding: 6rem 0;
+    background-image: url(./Caribbean-beach.jpg);
+}
+.about.Qualification{
+    background-image: url(./blue.jpg);
+}
+.about.Qualification .Qualification-img{
+    height: 280px;
+    width: 200;
+
+}
+.about.Qualification h1{
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    font-weight: 400;
+}
+.about.Qualification h1 span{
+    color: var(--primary);
+}
+.about.Qualification h3{
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    font-weight: 400;
+    background-color: lightsteelblue;}
